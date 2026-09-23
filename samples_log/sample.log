@@ -1,0 +1,9 @@
+2026-09-21 08:12:01 INFO Servidor iniciado correctamente en el puerto 8080
+2026-09-21 08:13:44 INFO Usuario admin ha iniciado sesión
+2026-09-21 08:15:02 WARNING Uso de memoria al 85%, por encima del umbral recomendado
+2026-09-21 08:16:10 ERROR No se pudo conectar con la base de datos: Connection timeout after 30000ms
+2026-09-21 08:16:11 ERROR Reintentando conexión a la base de datos (intento 1/3)
+2026-09-21 08:17:30 INFO Backup nocturno completado sin incidencias
+2026-09-21 08:18:05 CRITICAL Disco /var/log al 98% de capacidad, riesgo de caída del servicio
+2026-09-21 08:19:12 ERROR Traceback (most recent call last): File "worker.py", line 42, in process_job -> KeyError: 'job_id'
+2026-09-21 08:20:00 INFO Job de limpieza de caché ejecutado correctamente
