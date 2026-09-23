@@ -16,7 +16,7 @@ import requests
 # por eso la URL y el formato del "payload" (los datos que enviamos)
 # se parecen tanto a los que usarías con OpenAI.
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-MODEL = "llama-3.3-70b-versatile"  # mismo modelo que usasteis en sanse-llm-assistant
+MODEL = "openai/gpt-oss-120b"  #Nuevo
 
 # Palabras clave típicas para detectar líneas "interesantes" en un log.
 # Esto es una técnica simple (no IA todavía): filtrar con reglas antes
