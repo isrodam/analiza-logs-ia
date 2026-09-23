@@ -37,7 +37,7 @@ sample_logs/sample.log  →  analyzer.py  →  app.py (Streamlit)
    ```
 4. Sube `sample_logs/sample.log` para probarlo con datos de ejemplo.
 
-## Posibles mejoras (para mencionar en entrevista como "siguientes pasos")
+## Posibles mejoras ("siguientes pasos")
 
 - Dockerizar la aplicación (`Dockerfile` + `docker-compose`) para
   desplegarla igual en cualquier entorno.
